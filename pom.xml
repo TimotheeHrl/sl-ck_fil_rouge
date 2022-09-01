@@ -8,7 +8,7 @@
 		<version>2.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.filRouge</groupId>
+	<groupId>com.slck.filRouge</groupId>
 	<artifactId>filRouge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>filRouge</name>
